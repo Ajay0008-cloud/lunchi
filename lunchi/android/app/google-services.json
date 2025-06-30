@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "110044757938",
+    "project_id": "lunch-app-e2b56",
+    "storage_bucket": "lunch-app-e2b56.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110044757938:android:acd4632cd68987927baeab",
+        "android_client_info": {
+          "package_name": "com.example.lunchi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN-8iTwB_c5AGQFqdI6JoBFHPRY0Q-wa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
